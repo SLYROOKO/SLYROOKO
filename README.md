@@ -13,8 +13,8 @@ AWS Solutions Architect Associate Certificates
 ## Skills
 
 - **Languages:** JavaScript, Python, HTML, CSS, Dart, Java, C#
-- **Frameworks/Libraries:** React Native, Node.js, Express.js, Django, Flutter, .Net,  GraphQL
-- **Databases:** PostgresQL
+- **Frameworks/Libraries:** React Native, Node.js, Express.js, Django, Flutter, .Net, GraphQL
+- **Databases:** PostgreSQL
 - **Tools:** Git, VS Code, Docker, Firebase, Terraform, Jira, Confluence
 - **Cloud Technologies:** AWS
 <!-- 
