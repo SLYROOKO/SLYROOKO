@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Roy Ko! 👋
 
 I'm a passionate software engineer with a keen interest in building scalable applications. Welcome to my GitHub profile!
 
