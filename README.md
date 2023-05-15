@@ -17,15 +17,14 @@ AWS Solutions Architect Associate Certificates
 - **Databases:** PostgreSQL
 - **Tools:** Git, VS Code, Docker, Firebase, Terraform, Jira, Confluence
 - **Cloud Technologies:** AWS
-<!-- 
+
 ## Projects
 
-### Project 1: E-commerce Website
+### Project 1: TMDB Data Pipeline
 
-- **Description:** An online shopping platform with user authentication, product listings, and cart functionality.
-- **Tech stack:** React, Node.js, Express.js, MongoDB
-- **GitHub repository:** [E-commerce Website](https://github.com/johndoe/e-commerce)
-
+- **Description:** The Movie Database Visualization
+- **Tech stack:** AWS Glue, S3, Redshift, Quicksight
+<!-- 
 ### Project 2: Weather App
 
 - **Description:** A weather application that fetches real-time weather data based on user input.
