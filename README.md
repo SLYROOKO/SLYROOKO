@@ -23,25 +23,23 @@ AWS Solutions Architect Associate Certificates
 ### Project 1: TMDB Data Pipeline
 
 - **Description:** The Movie Database Visualization
-- **Tech stack:** AWS Glue, S3, Redshift, Quicksight
-<!-- 
-### Project 2: Weather App
+- **Tech stack:** Terraform, AWS Glue, S3, Redshift, Quicksight
 
-- **Description:** A weather application that fetches real-time weather data based on user input.
-- **Tech stack:** Python, Flask, HTML, CSS
-- **GitHub repository:** [Weather App](https://github.com/johndoe/weather-app)
- -->
+### Project 2: React-Native Slot Machine
+
+- **Description:** A React-Native application that implements a slot machine game
+- **Tech stack:** React-Native, Javascript
+- **GitHub repository:** [Slot-Machine](https://github.com/SLYROOKO/Slot-Machine)
 
 ## Contact Me
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me via:
 
 - 📧 Email: koroy123@gmail.com
-- 💼 LinkedIn: [Roy Ko](https://www.linkedin.com/in/roy-ko/)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roysolko&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLYROOKO&show_icons=true&theme=dark)
 
 Thank you for visiting my GitHub profile! Let's connect and create amazing things together! 🚀
 
