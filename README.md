@@ -4,19 +4,17 @@ I'm a passionate software engineer with a keen interest in building scalable app
 
 ## About Me
 
-- 💻 Full-stack developer with expertise in JavaScript and Python.
-- 🌱 Currently learning cloud technologies and exploring serverless architectures. AWS Cloud Practitioner,
-AWS Solutions Architect Associate Certificates
+- 💻 Full-stack developer with expertise in multiple programming languages.
 - 🔭 Working on personal projects to sharpen my skills and expand my knowledge.
 - 🎓 Bachelor's degree in Computer Science from California State University Northridge.
 
-## Skills
+## Skills & Certifications
 
 - **Languages:** JavaScript, Python, HTML, CSS, Dart, Java, C#
 - **Frameworks/Libraries:** React Native, Node.js, Express.js, Django, Flutter, .Net, GraphQL
 - **Databases:** PostgreSQL
 - **Tools:** Git, VS Code, Docker, Firebase, Terraform, Jira, Confluence
-- **Cloud Technologies:** AWS
+- **Cloud Technologies:** [AWS Solutions Architect Associate](https://www.credly.com/badges/705e7de7-9e00-45c2-b6f9-cc8a191f5fd9/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/410c52bd-f4fc-482a-8882-1de73e82b7af/linked_in_profile)
 
 ## Projects
 
