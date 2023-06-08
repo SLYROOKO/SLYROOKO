@@ -35,9 +35,9 @@ Feel free to reach out to me if you have any questions or would like to collabor
 
 - 📧 Email: koroy123@gmail.com
 
+ <!--
 ## GitHub Stats
 
- <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLYROOKO&show_icons=true&theme=dark)
 -->
 
