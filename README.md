@@ -27,7 +27,7 @@ I'm a passionate software engineer with a keen interest in building scalable app
 
 - **Description:** A React-Native application that implements a slot machine game
 - **Tech stack:** React-Native, Javascript
-- **GitHub repository:** [Slot-Machine](https://github.com/SLYROOKO/Slot-Machine)
+- **GitHub repository:** [Slot-Machine](https://github.com/SLYROOKO/Slot-Machine/releases)
 
 ## Contact Me
 
