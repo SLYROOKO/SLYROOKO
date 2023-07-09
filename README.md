@@ -21,7 +21,7 @@ I'm a passionate software engineer with a keen interest in building scalable app
 ### Project 1: TMDB Data Pipeline
 
 - **Description:** The Movie Database Visualization
-- **Tech stack:** PostgreSQL, Apache Suite.
+- **Tech stack:** PostgreSQL, Apache Suite, Tableau
 
 ### Project 2: React-Native Slot Machine
 
