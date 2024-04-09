@@ -5,29 +5,16 @@ I'm a passionate software engineer with a keen interest in building scalable app
 ## About Me
 
 - 💻 Full-stack developer with expertise in multiple programming languages.
-- 🔭 Working on personal projects to sharpen my skills and expand my knowledge.
+- 🔭 Currently working at the North Dakota Attorney General Office
 - 🎓 Bachelor's degree in Computer Science from California State University Northridge.
 
 ## Skills & Certifications
 
-- **Languages:** JavaScript, Python, Dart, Java, HTML, CSS
-- **Frameworks/Libraries:** React Native, Node.js, Express.js, Django, Flutter, GraphQL, Sequelize
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, VS Code, Docker, Firebase, Terraform, Jira, Confluence
+- **Languages:** C#, JavaScript, Python, Dart, Java, HTML, CSS
+- **Frameworks/Libraries:** .Net, React Native, Node.js, Express.js, Django, Flutter, GraphQL, Sequelize
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, VS Code, Docker, Firebase, Terraform, Jira, Confluence, Octopus, Jenkins
 - **Certifications:** [AWS Solutions Architect Associate](https://www.credly.com/badges/705e7de7-9e00-45c2-b6f9-cc8a191f5fd9/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/410c52bd-f4fc-482a-8882-1de73e82b7af/linked_in_profile)
-
-## Projects
-
-### Project 1: TMDB Data Pipeline
-
-- **Description:** The Movie Database Visualization
-- **Tech stack:** PostgreSQL, Apache Suite, Tableau
-
-### Project 2: React-Native Slot Machine
-
-- **Description:** A React-Native application that implements a slot machine game
-- **Tech stack:** React-Native, Javascript
-- **GitHub repository:** [Slot-Machine](https://github.com/SLYROOKO/Slot-Machine/releases)
 
 ## Contact Me
 
